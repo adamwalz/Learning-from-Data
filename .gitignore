@@ -37,6 +37,9 @@ coverage.xml
 # Translations
 *.mo
 
+# IPython
+.ipynb_checkpoints
+
 # Mr Developer
 .mr.developer.cfg
 .project
